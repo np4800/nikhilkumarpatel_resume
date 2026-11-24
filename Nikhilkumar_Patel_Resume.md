@@ -77,7 +77,7 @@ I’m a principal systems and software engineer with 17+ years of experience bui
 - Automated data migration tasks using UNIX shell scripting, improving operational efficiency and reducing manual effort.
 - Delivered significant performance improvements by tuning complex SQL queries, reducing execution times from hours to minutes or seconds.
 
-#### Software Developer, Senior Software Developer | Oct 2007-Feb 2016
+#### Software Developer, Senior Software Developer | Oct 2007-Feb 2014
 **TechMahindra**
 **British Telecom**
 - Designed, developed, and enhanced enterprise telecom applications using Oracle PL/SQL and Oracle Forms, delivering new features and system enhancements across BT's telecom OSS portfolio.
